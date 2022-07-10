@@ -11,6 +11,8 @@ iOS 면접준비 기록
 
 [App thinning에 대해 설명하시오.](https://zealous-sousaphone-dce.notion.site/App-thinning-aa946239395343bc85317622b2c862b4)
 
-[앱이 시작할 때 main.m (소스파일)에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가?]()
-[@Main에 대해서 설명하시오.]()
+[앱이 시작할 때 main.m (소스파일)에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가?](https://zealous-sousaphone-dce.notion.site/main-m-UIApplicationMain-9a43b984ca9f4baab0861bd81f5e5b37)
+
+[@Main에 대해서 설명하시오.](https://zealous-sousaphone-dce.notion.site/Main-2e81506a1930498a884062bfa7ff0814)
+
 [앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?]()
