@@ -10,3 +10,7 @@
 - [앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?](https://zealous-sousaphone-dce.notion.site/foreground-background-d0dd4f83acbf4b7e885d76e50a4cdf7c)
 - [상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오.](https://zealous-sousaphone-dce.notion.site/d00dbc4817af4718bc953a8ee9ac1a55)
 - [앱이 In-Active 상태가 되는 시나리오를 설명하시오.](https://zealous-sousaphone-dce.notion.site/In-Active-110410312ba34b05addbac5f33aa4f75)
+- [App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.](https://zealous-sousaphone-dce.notion.site/App-Not-running-Inactive-Active-Background-Suspended-1a7a4902ed2a4f33bd36e52a65f64e40)
+- [UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?](https://zealous-sousaphone-dce.notion.site/UIApplication-6b393489eb324807b77757903e6bb738)
+- [scene delegate에 대해 설명하시오.](https://zealous-sousaphone-dce.notion.site/scene-delegate-e4bfe9c8d74b4b40bf350bce0de315f0)
+- [NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오.](https://zealous-sousaphone-dce.notion.site/NSOperationQueue-GCD-Queue-c86eaa6a195c47b1a9173648c7e5b519)
