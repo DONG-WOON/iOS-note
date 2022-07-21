@@ -14,3 +14,6 @@
 - [UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?](https://zealous-sousaphone-dce.notion.site/UIApplication-6b393489eb324807b77757903e6bb738)
 - [scene delegate에 대해 설명하시오.](https://zealous-sousaphone-dce.notion.site/scene-delegate-e4bfe9c8d74b4b40bf350bce0de315f0)
 - [NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오.](https://zealous-sousaphone-dce.notion.site/NSOperationQueue-GCD-Queue-c86eaa6a195c47b1a9173648c7e5b519)
+- [GCD API 동작 방식과 필요성에 대해 설명하시오. ](https://zealous-sousaphone-dce.notion.site/GCD-API-4cffd659d8e643fb90d2c35485569b7b)
+- [Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오. ](https://zealous-sousaphone-dce.notion.site/Global-DispatchQueue-Qos-1-0c29efd5e0b44e66907d715db224a77c)
+- [iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가? ](https://zealous-sousaphone-dce.notion.site/iOS-User-Interface-bb8a95fb1329443c8b1b23a5f726c90c)
